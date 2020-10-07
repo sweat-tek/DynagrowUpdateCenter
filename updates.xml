@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.5//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_5.dtd">
-<module_updates timestamp="57/51/07/07/10/2020">
+<module_updates timestamp="01/14/08/07/10/2020">
 
 
 
@@ -376,9 +376,9 @@
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.impl.opcuahal" distribution="gc-impl-opcuahal-1.0.2-SNAPSHOT.nbm" downloadsize="41087" license="EE864CEE" needsrestart="false" releasedate="2020/10/07" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.impl.opcuahal" distribution="gc-impl-opcuahal-1.0.2-SNAPSHOT.nbm" downloadsize="41110" license="EE864CEE" needsrestart="false" releasedate="2020/10/07" targetcluster="dynagrow">
         
-    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.opcuahal" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.2-20201007" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.controleum.lib.opcua &gt; 1.0.2, org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.2, dk.sdu.mmmi.controleum.api.core &gt; 1.0.2, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.2, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.2, org.openide.dialogs &gt; 7.48, dk.sdu.mmmi.controleum.api.control &gt; 1.0.2, com.decouplink.decouplink &gt; 1.0.2, org.openide.util &gt; 9.13, org.openide.util.ui &gt; 9.14, org.openide.util.lookup &gt; 8.39, org.openide.filesystems &gt; 9.16, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.2, dk.sdu.mmmi.gc.api.datasourceservices &gt; 1.0.2, org.openide.nodes &gt; 7.51, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.2" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.opcuahal" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.2"/>
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.opcuahal" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.2-20201007" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.controleum.lib.opcua &gt; 1.0.2, org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.2, dk.sdu.mmmi.controleum.api.core &gt; 1.0.2, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.2, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.2, org.openide.dialogs &gt; 7.48, dk.sdu.mmmi.controleum.api.control &gt; 1.0.2, com.decouplink.decouplink &gt; 1.0.2, org.openide.util &gt; 9.13, org.openide.util.ui &gt; 9.14, org.openide.util.lookup &gt; 8.39, org.openide.filesystems &gt; 9.16, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.2, dk.sdu.mmmi.gc.api.datasourceservices &gt; 1.0.2, org.openide.nodes &gt; 7.51, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.2" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.opcuahal" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.3"/>
         
 
 </module>
