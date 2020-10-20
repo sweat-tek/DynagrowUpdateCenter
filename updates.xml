@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.5//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_5.dtd">
-<module_updates timestamp="55/01/14/20/10/2020">
+<module_updates timestamp="52/09/14/20/10/2020">
 
 
 
@@ -386,6 +386,20 @@
 <module codenamebase="dk.sdu.mmmi.gc.impl.photosynthesismodel" distribution="gc-impl-photosynthesismodel-1.0.5-SNAPSHOT.nbm" downloadsize="11866" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.photosynthesismodel" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.5-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.photosynthesismodel" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.5"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.privaconnector" distribution="gc-impl-privaconnector-1.0.5-SNAPSHOT.nbm" downloadsize="1016265" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.privaconnector" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.5-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.privaconnector" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.5"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.privahal" distribution="gc-impl-privahal-1.0.5-SNAPSHOT.nbm" downloadsize="11586" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.privahal" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.5-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.5, dk.sdu.mmmi.controleum.api.core &gt; 1.0.5, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.5, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.5, org.openide.dialogs &gt; 7.48, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.5, dk.sdu.mmmi.controleum.api.control &gt; 1.0.5, com.decouplink.decouplink &gt; 1.0.5, org.openide.util &gt; 9.13, dk.sdu.mmmi.gc.impl.privaconnector &gt; 1.0.5, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.privahal" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.5"/>
         
 
 </module>
