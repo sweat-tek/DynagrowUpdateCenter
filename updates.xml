@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.5//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_5.dtd">
-<module_updates timestamp="47/41/12/19/10/2020">
+<module_updates timestamp="37/32/08/20/10/2020">
 
 
 
@@ -54,9 +54,9 @@
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.control.light" distribution="gc-control-light-1.0.4-SNAPSHOT.nbm" downloadsize="135422" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.control.light" distribution="gc-control-light-1.0.4-SNAPSHOT.nbm" downloadsize="135427" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.control.light" OpenIDE-Module-Display-Category="Control" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="Basic artificial light control..." OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.controleum.api.data &gt; 1.0.4, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, org.openide.dialogs &gt; 7.48, com.decouplink.decouplink &gt; 1.0.4, org.openide.modules &gt; 7.54, org.openide.util &gt; 9.13, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.control.commons &gt; 1.0.4, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.controleum.api.weather &gt; 1.0.4, org.openide.awt &gt; 7.74, dk.sdu.mmmi.gc.control.commons &gt; 1.0.4, dk.sdu.mmmi.controleum.api.electricityprices &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="Basic artificial light control" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic artificial light control." OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.control.light" OpenIDE-Module-Display-Category="Control" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="Basic artificial light control..." OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.controleum.api.data &gt; 1.0.4, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, org.openide.dialogs &gt; 7.48, com.decouplink.decouplink &gt; 1.0.4, org.openide.modules &gt; 7.54, org.openide.util &gt; 9.13, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.control.commons &gt; 1.0.4, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.controleum.api.weather &gt; 1.0.4, org.openide.awt &gt; 7.74, dk.sdu.mmmi.gc.control.commons &gt; 1.0.4, dk.sdu.mmmi.controleum.api.electricityprices &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="Basic artificial light control" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic artificial light control." OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
@@ -285,6 +285,13 @@
 
 </module>
 
+<module codenamebase="dk.sdu.mmmi.controleum.lib.opcua" distribution="controleum-lib-opcua-1.0.4-SNAPSHOT.nbm" downloadsize="14121895" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="controleum">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.controleum.lib.opcua" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Name="dk.sdu.mmmi.controleum.lib.opcua" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
 <module codenamebase="dk.sdu.mmmi.controleum.lib.springframework" distribution="controleum-lib-springframework-1.0.4-SNAPSHOT.nbm" downloadsize="7087847" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="controleum">
         
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.controleum.lib.springframework" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, org.openide.modules &gt; 7.54, org.openide.util &gt; 9.13" OpenIDE-Module-Name="dk.sdu.mmmi.controleum.lib.springframework" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
@@ -292,93 +299,107 @@
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.api.climatedb" distribution="gc-api-climatedb-1.0.4-SNAPSHOT.nbm" downloadsize="7380" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.api.climatedb" distribution="gc-api-climatedb-1.0.4-SNAPSHOT.nbm" downloadsize="7382" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.api.climatedb" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.api.climatedb" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
-        
-
-</module>
-
-<module codenamebase="dk.sdu.mmmi.gc.api.datasourceservices" distribution="gc-api-datasourceservices-1.0.4-SNAPSHOT.nbm" downloadsize="9824" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
-        
-    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.api.datasourceservices" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, org.openide.nodes &gt; 7.51" OpenIDE-Module-Name="dk.sdu.mmmi.gc.api.datasourceservices" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.api.climatedb" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.api.climatedb" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.api.greenhousehal" distribution="gc-api-greenhousehal-1.0.4-SNAPSHOT.nbm" downloadsize="6213" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.api.datasourceservices" distribution="gc-api-datasourceservices-1.0.4-SNAPSHOT.nbm" downloadsize="9820" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.api.greenhousehal" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.api.greenhousehal" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
-        
-
-</module>
-
-<module codenamebase="dk.sdu.mmmi.gc.control.commons" distribution="gc-control-commons-1.0.4-SNAPSHOT.nbm" downloadsize="1980312" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
-        
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.control.commons" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.controleum.api.data &gt; 1.0.4, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.gc.impl.photosynthesismodel &gt; 1.0.4, org.openide.dialogs &gt; 7.48, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, org.openide.util.lookup &gt; 8.39, org.openide.util &gt; 9.13, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.api.db &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.controleum.control.commons &gt; 1.0.4, org.openide.awt &gt; 7.74, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="dk.sdu.mmmi.gc.control.commons" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.api.datasourceservices" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, org.openide.nodes &gt; 7.51" OpenIDE-Module-Name="dk.sdu.mmmi.gc.api.datasourceservices" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.gui" distribution="gc-gui-1.0.4-SNAPSHOT.nbm" downloadsize="1678020" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.api.greenhousehal" distribution="gc-api-greenhousehal-1.0.4-SNAPSHOT.nbm" downloadsize="6221" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.gui" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, org.openide.util &gt; 9.13, org.openide.nodes &gt; 7.51, org.openide.windows &gt; 6.83, org.openide.explorer &gt; 6.68, org.netbeans.modules.settings/1 &gt; 1.55, org.netbeans.api.progress/1 &gt; 1.53, org.openide.dialogs &gt; 7.48, org.openide.filesystems &gt; 9.16, org.openide.awt &gt; 7.74, org.openide.modules &gt; 7.54, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.controleum.api.data &gt; 1.0.4, dk.sdu.mmmi.gc.impl.greenhouseicons &gt; 1.0.4, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.api.db &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.guava &gt; 1.0.4, dk.sdu.mmmi.controleum.api.simulation &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, org.netbeans.modules.javahelp/1 &gt; 2.47, org.openide.util.ui &gt; 9.14, org.openide.filesystems.nb &gt; 9.16, org.netbeans.api.progress.nb &gt; 1.53, dk.sdu.mmmi.gc.api.datasourceservices &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.core &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.gui" OpenIDE-Module-Requires="org.openide.windows.WindowManager" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
-        
-
-</module>
-
-<module codenamebase="dk.sdu.mmmi.gc.impl.climatedb" distribution="gc-impl-climatedb-1.0.4-SNAPSHOT.nbm" downloadsize="44850" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
-        
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.climatedb" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.derby &gt; 1.0.4, dk.sdu.mmmi.controleum.api.db &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.gson &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.climatedb" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.api.greenhousehal" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.api.greenhousehal" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.impl.datasourcesstore" distribution="gc.impl.datasourcesstore-1.0.4-SNAPSHOT.nbm" downloadsize="8438" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.control.commons" distribution="gc-control-commons-1.0.4-SNAPSHOT.nbm" downloadsize="1980377" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.datasourcesstore" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.gc.api.datasourceservices &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.gson &gt; 1.0.4, org.openide.modules &gt; 7.54, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.datasourcesstore" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
-        
-
-</module>
-
-<module codenamebase="dk.sdu.mmmi.gc.impl.energidkconnector" distribution="gc-impl-energidkconnector-1.0.4-SNAPSHOT.nbm" downloadsize="247972" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
-        
-    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.energidkconnector" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.api.electricityprices &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.mysql &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.springframework &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.energidkconnector" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.control.commons" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.controleum.api.data &gt; 1.0.4, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.gc.impl.photosynthesismodel &gt; 1.0.4, org.openide.dialogs &gt; 7.48, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, org.openide.util.lookup &gt; 8.39, org.openide.util &gt; 9.13, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.api.db &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.controleum.control.commons &gt; 1.0.4, org.openide.awt &gt; 7.74, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="dk.sdu.mmmi.gc.control.commons" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.impl.entities" distribution="gc-impl-entities-1.0.4-SNAPSHOT.nbm" downloadsize="19036" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.gui" distribution="gc-gui-1.0.4-SNAPSHOT.nbm" downloadsize="1677933" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.entities" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.lib.gson &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.entities" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
-        
-
-</module>
-
-<module codenamebase="dk.sdu.mmmi.gc.impl.greenhousehalsimulation" distribution="gc-impl-greenhousehalsimulation-1.0.4-SNAPSHOT.nbm" downloadsize="10813" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
-        
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.greenhousehalsimulation" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.api.simulation &gt; 1.0.4, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.guava &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.greenhousehalsimulation" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.gui" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, org.openide.util &gt; 9.13, org.openide.nodes &gt; 7.51, org.openide.windows &gt; 6.83, org.openide.explorer &gt; 6.68, org.netbeans.modules.settings/1 &gt; 1.55, org.netbeans.api.progress/1 &gt; 1.53, org.openide.dialogs &gt; 7.48, org.openide.filesystems &gt; 9.16, org.openide.awt &gt; 7.74, org.openide.modules &gt; 7.54, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.controleum.api.data &gt; 1.0.4, dk.sdu.mmmi.gc.impl.greenhouseicons &gt; 1.0.4, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.api.db &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.guava &gt; 1.0.4, dk.sdu.mmmi.controleum.api.simulation &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, org.netbeans.modules.javahelp/1 &gt; 2.47, org.openide.util.ui &gt; 9.14, org.openide.filesystems.nb &gt; 9.16, org.netbeans.api.progress.nb &gt; 1.53, dk.sdu.mmmi.gc.api.datasourceservices &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.core &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.gui" OpenIDE-Module-Requires="org.openide.windows.WindowManager" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.impl.greenhouseicons" distribution="gc-impl-greenhouseicons-1.0.4-SNAPSHOT.nbm" downloadsize="689331" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.impl.climatedb" distribution="gc-impl-climatedb-1.0.4-SNAPSHOT.nbm" downloadsize="44822" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.greenhouseicons" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.greenhouseicons" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
-        
-
-</module>
-
-<module codenamebase="dk.sdu.mmmi.gc.impl.photosynthesismodel" distribution="gc-impl-photosynthesismodel-1.0.4-SNAPSHOT.nbm" downloadsize="11878" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
-        
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.photosynthesismodel" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.photosynthesismodel" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.climatedb" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.derby &gt; 1.0.4, dk.sdu.mmmi.controleum.api.db &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.gson &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.climatedb" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.dynagrow.branding" distribution="dynagrow-branding-1.0.4-SNAPSHOT.nbm" downloadsize="94253" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.impl.datasourcesstore" distribution="gc.impl.datasourcesstore-1.0.4-SNAPSHOT.nbm" downloadsize="8436" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.dynagrow.branding" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Name="DynaGrow - branding" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.datasourcesstore" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.gc.api.datasourceservices &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.gson &gt; 1.0.4, org.openide.modules &gt; 7.54, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.datasourcesstore" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.energidkconnector" distribution="gc-impl-energidkconnector-1.0.4-SNAPSHOT.nbm" downloadsize="247967" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.energidkconnector" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.api.electricityprices &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.mysql &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.springframework &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.energidkconnector" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.entities" distribution="gc-impl-entities-1.0.4-SNAPSHOT.nbm" downloadsize="19032" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.entities" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.lib.gson &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.entities" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.greenhouseicons" distribution="gc-impl-greenhouseicons-1.0.4-SNAPSHOT.nbm" downloadsize="689337" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.greenhouseicons" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.greenhouseicons" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.opcuahal" distribution="gc-impl-opcuahal-1.0.4-SNAPSHOT.nbm" downloadsize="41161" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.opcuahal" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.controleum.lib.opcua &gt; 1.0.4, org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, org.openide.dialogs &gt; 7.48, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, org.openide.util &gt; 9.13, org.openide.util.ui &gt; 9.14, org.openide.util.lookup &gt; 8.39, org.openide.filesystems &gt; 9.16, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.gc.api.datasourceservices &gt; 1.0.4, org.openide.nodes &gt; 7.51, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.opcuahal" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.photosynthesismodel" distribution="gc-impl-photosynthesismodel-1.0.4-SNAPSHOT.nbm" downloadsize="11866" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.gc.impl.photosynthesismodel" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.photosynthesismodel" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.privaconnector" distribution="gc-impl-privaconnector-1.0.4-SNAPSHOT.nbm" downloadsize="1016273" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.privaconnector" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.privaconnector" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.gc.impl.privahal" distribution="gc-impl-privahal-1.0.4-SNAPSHOT.nbm" downloadsize="11583" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.impl.privahal" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.33, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.gc.api.greenhousehal &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, org.openide.dialogs &gt; 7.48, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, org.openide.util &gt; 9.13, dk.sdu.mmmi.gc.impl.privaconnector &gt; 1.0.4, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="dk.sdu.mmmi.gc.impl.privahal" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
+        
+
+</module>
+
+<module codenamebase="dk.sdu.mmmi.dynagrow.branding" distribution="dynagrow-branding-1.0.4-SNAPSHOT.nbm" downloadsize="94253" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.dynagrow.branding" OpenIDE-Module-Display-Category="dk.sdu.mmmi" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Name="DynaGrow - branding" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
@@ -740,9 +761,9 @@
 
 </module>
 
-<module codenamebase="dk.sdu.mmmi.gc.control.light.par" distribution="gc-control-light-par-1.0.4-SNAPSHOT.nbm" downloadsize="80587" license="EE864CEE" needsrestart="false" releasedate="2020/10/19" targetcluster="dynagrow">
+<module codenamebase="dk.sdu.mmmi.gc.control.light.par" distribution="gc-control-light-par-1.0.4-SNAPSHOT.nbm" downloadsize="80670" license="EE864CEE" needsrestart="false" releasedate="2020/10/20" targetcluster="dynagrow">
         
-    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.control.light.par" OpenIDE-Module-Display-Category="Control" OpenIDE-Module-Implementation-Version="1.0.4-20201019" OpenIDE-Module-Long-Description="PAR artificial light control..." OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, org.openide.awt &gt; 7.74, org.openide.dialogs &gt; 7.48, org.openide.util &gt; 9.13, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.controleum.api.data &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.guava &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.joda &gt; 1.0.4, dk.sdu.mmmi.controleum.control.commons &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.api.electricityprices &gt; 1.0.4, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.control.commons &gt; 1.0.4, dk.sdu.mmmi.gc.control.light &gt; 1.0.4, org.netbeans.modules.javahelp/1 &gt; 2.47, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="PAR artificial light control" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="PAR artificial light control." OpenIDE-Module-Specification-Version="1.0.4"/>
+    <manifest OpenIDE-Module="dk.sdu.mmmi.gc.control.light.par" OpenIDE-Module-Display-Category="Control" OpenIDE-Module-Implementation-Version="1.0.4-20201020" OpenIDE-Module-Long-Description="PAR artificial light control..." OpenIDE-Module-Module-Dependencies="org.openide.util.lookup &gt; 8.39, org.openide.awt &gt; 7.74, org.openide.dialogs &gt; 7.48, org.openide.util &gt; 9.13, dk.sdu.mmmi.controleum.api.moea &gt; 1.0.4, dk.sdu.mmmi.controleum.api.data &gt; 1.0.4, com.decouplink.decouplink &gt; 1.0.4, dk.sdu.mmmi.controleum.api.core &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.guava &gt; 1.0.4, dk.sdu.mmmi.controleum.lib.joda &gt; 1.0.4, dk.sdu.mmmi.controleum.control.commons &gt; 1.0.4, dk.sdu.mmmi.controleum.impl.entities &gt; 1.0.4, dk.sdu.mmmi.controleum.api.electricityprices &gt; 1.0.4, dk.sdu.mmmi.controleum.api.control &gt; 1.0.4, dk.sdu.mmmi.gc.api.climatedb &gt; 1.0.4, dk.sdu.mmmi.gc.impl.entities &gt; 1.0.4, dk.sdu.mmmi.gc.control.commons &gt; 1.0.4, dk.sdu.mmmi.gc.control.light &gt; 1.0.4, org.netbeans.modules.javahelp/1 &gt; 2.47, org.openide.util.ui &gt; 9.14" OpenIDE-Module-Name="PAR artificial light control" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="PAR artificial light control." OpenIDE-Module-Specification-Version="1.0.4"/>
         
 
 </module>
